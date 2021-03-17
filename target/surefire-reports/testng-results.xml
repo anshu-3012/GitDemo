@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="208" started-at="2021-03-06T19:50:29 IST" finished-at="2021-03-06T19:50:29 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="208" started-at="2021-03-06T19:50:29 IST" finished-at="2021-03-06T19:50:29 IST">
+      <class name="firstMaven.SeleniumTest">
+        <test-method status="PASS" signature="BrowserM()[pri:0, instance:firstMaven.SeleniumTest@27a8c74e]" name="BrowserM" duration-ms="31" started-at="2021-03-06T19:50:29 IST" finished-at="2021-03-06T19:50:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserM -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:firstMaven.SeleniumTest@27a8c74e]" name="elementsUI" duration-ms="1" started-at="2021-03-06T19:50:29 IST" finished-at="2021-03-06T19:50:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- firstMaven.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
